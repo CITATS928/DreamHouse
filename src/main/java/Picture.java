@@ -74,7 +74,7 @@ public class Picture {
     tree12.moveHorizontal(200);
     tree12.moveVertical(190);
     tree12.makeVisible();
-    tree12.changeColor("black");
+    tree12.changeColor("black"); 
 
     tree21= new Square();
     tree21.changeSize(12);
